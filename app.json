@@ -1,12 +1,12 @@
 {
-  "name": "AutoDelete-V2",
+  "name": "Auto-Delete-Bot",
   "description": "delete group messages after a specific time",
   "keywords": [
     "telegram",
     "delete",
     "bot"
   ],
-  "repository": "https://github.com/Arun-TG/AutoDelete-V2",
+  "repository": "https://github.com/TG-V4MP1R3/Auto-Delete-Bot",
   "logo": "https://telegra.ph/file/8cd549b2beef98e83349e.jpg",
   "env": {
     "BOT_TOKEN": {
