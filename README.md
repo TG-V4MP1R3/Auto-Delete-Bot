@@ -1,4 +1,4 @@
-# AutoDelete-V2
+# AUTO-DELETE-BOT
 Delete group messages after a specific time
 
 ## Variables
@@ -20,8 +20,8 @@ Delete group messages after a specific time
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Arun-TG/AutoDelete-V2
-cd AutoDelete-V2
+git clone https://github.com/TG-V4MP1R3/Auto-Delete-Bot
+cd Auto-Delete-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 bot.py
@@ -29,4 +29,7 @@ python3 bot.py
 
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Arun](https://t.me/Arun_TG)
+
+### Developer
+- [Vampire](https://t.me/KP51107)
+
