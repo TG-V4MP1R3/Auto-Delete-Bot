@@ -1,5 +1,6 @@
-# AUTO-DELETE-BOT
-Delete group messages after a specific time
+<p align="center">
+𝗔𝗨𝗧𝗢-𝗗𝗘𝗟𝗘𝗧𝗘-𝗕𝗢𝗧
+</p>
 
 ## Variables
 1. `API_ID` : Get from [my.telegram.org](https://my.telegram.org/)
